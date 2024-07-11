@@ -1,9 +1,4 @@
 # Canteen Management System
-
-## A MERN Stack Application
-### Backend
-Backend is build using Express Js which is a NodeJs framework and MongoDB as database
-
 ### Frontend
 Frontend is buils using ReactJs. I've used Redux for global state management.
 
